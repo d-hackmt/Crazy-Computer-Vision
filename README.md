@@ -2,7 +2,7 @@
 
 Welcome to the Computer Vision Basics repository! This repository is designed to help you get started with the fundamentals of computer vision. 📸👁️
 
-![0](https://github.com/d-hackmt/Crazy-Computer-Vision/assets/113240252/da95b384-ddf5-42cf-a6bc-3222918e57e8)
+<img src="https://github.com/d-hackmt/Crazy-Computer-Vision/assets/113240252/da95b384-ddf5-42cf-a6bc-3222918e57e8" width="200" alt="Computer Vision Logo">
 
 ## Table of Contents
 
