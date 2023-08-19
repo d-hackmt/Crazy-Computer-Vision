@@ -6,10 +6,10 @@ Welcome to the Computer Vision Basics repository! This repository is designed to
 
 ## Table of Contents
 
-1. [NumPy and Image Basics](00-NumPy-and-Image-Basics/README.md)
-2. [Image Basics with OpenCV](01-Image-Basics-with-OpenCV/README.md)
-3. [Image Processing](02-Image-Processing/README.md)
-4. [Video Basics](03-Video-Basics/README.md)
+1. [NumPy and Image Basics](00-NumPy-and-Image-Basics/)
+2. [Image Basics with OpenCV](01-Image-Basics-with-OpenCV/)
+3. [Image Processing](02-Image-Processing/)
+4. [Video Basics](03-Video-Basics/)
 5. [Data Folder](data/)
 
 ## Contents Description
